@@ -30,6 +30,14 @@ I'm currently looking for full time **Data Analyst / Data Scientist** roles wher
 
 ---
 
+### 💼 Professional Experience
+
+- **Foxconn Technology Group** — Corporate Summer Intern (Jul–Aug 2025)
+- **Standard Chartered Bank** — Summer Analyst, Corporate & Investment Banking (Jun–Aug 2023)
+- **Uber Technologies, Inc.** — Project Intern, Uber Eats (Jun–Aug 2022)
+
+---
+
 ### 📊 Featured Projects
 
 | Project | Description | Tools |
@@ -44,12 +52,5 @@ I'm currently looking for full time **Data Analyst / Data Scientist** roles wher
 
 ---
 
-### 💼 Professional Experience
-
-- **Foxconn Technology Group** — Corporate Summer Intern (Jul–Aug 2025)
-- **Standard Chartered Bank** — Summer Analyst, Corporate & Investment Banking (Jun–Aug 2023)
-- **Uber Technologies, Inc.** — Project Intern, Uber Eats (Jun–Aug 2022)
-
----
 
 <p align="center"><i>📫 Let's connect — always happy to talk data, analytics, or opportunities!</i></p>

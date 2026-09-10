@@ -30,6 +30,14 @@ I'm currently looking for full time **Data Analyst / Data Scientist** roles wher
 
 ---
 
+### 💼 Professional Experience
+
+- **Foxconn Technology Group** — Corporate Summer Intern (Jul–Aug 2025)
+- **Standard Chartered Bank** — Summer Analyst, Corporate & Investment Banking (Jun–Aug 2023)
+- **Uber Technologies, Inc.** — Project Intern, Uber Eats (Jun–Aug 2022)
+
+---
+
 ### 📊 Featured Projects
 
 | Project | Description | Tools |
@@ -41,14 +49,6 @@ I'm currently looking for full time **Data Analyst / Data Scientist** roles wher
 | [Pokémon Relational Database Design](https://github.com/oliviacchou/pokemon-relational-database) | Designed and normalized an 11+ table relational schema; built advanced SQL queries and views for statistical insights | SQL |
 | [Predicting Oscar Winners with ML](https://github.com/oliviacchou/oscar-winner-prediction-ml) | Built kNN, Random Forest, Neural Network & Logistic Regression models to forecast 2023 Oscar winners; 20-page analytical report | Python |
 | [Cross-Functional CORE Business Plan](https://github.com/oliviacchou/core-restaurant-business-plan) | Led analytics sub-team on a 100-page restaurant business plan; ran simulation, cluster, conjoint & sensitivity analyses | Excel (XLMiner, Solver) |
-
----
-
-### 💼 Professional Experience
-
-- **Foxconn Technology Group** — Corporate Summer Intern (Jul–Aug 2025)
-- **Standard Chartered Bank** — Summer Analyst, Corporate & Investment Banking (Jun–Aug 2023)
-- **Uber Technologies, Inc.** — Project Intern, Uber Eats (Jun–Aug 2022)
 
 ---
 
